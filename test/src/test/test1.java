@@ -4,7 +4,6 @@ public class test1 {
 
 	String apple;
 	String banana;
-	String kiwi;
 	
 	public String getApple() {
 		return apple;
@@ -18,12 +17,5 @@ public class test1 {
 	public void setBanana(String banana) {
 		this.banana = banana;
 	}
-	public String getKiwi() {
-		return kiwi;
-	}
-	public void setKiwi(String kiwi) {
-		this.kiwi = kiwi;
-	}
-	
 	
 }
