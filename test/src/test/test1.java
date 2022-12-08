@@ -17,5 +17,8 @@ public class test1 {
 	public void setBanana(String banana) {
 		this.banana = banana;
 	}
+	public static void main(String[] args) {
+		System.out.println("test");
+	}
 	
 }
